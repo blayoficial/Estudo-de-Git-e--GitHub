@@ -1,10 +1,10 @@
 # ESTUDANDO GITHUB
-
+#Repositório Criado para estudos e práticas de Git e GitHub
 <img width="200" height="200" alt="83b91c4c-2dbc-4a04-a6a8-9211806c43df" src="https://github.com/user-attachments/assets/183939e8-7989-430b-ad08-fee86bf9ab9d" />
 
-Repositório utilizado para estudos e práticas de Git e GitHub
 
 
+#comandos
 <<<<<<< Updated upstream
 Comandos Básicos do Git 
 
