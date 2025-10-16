@@ -1,6 +1,7 @@
 # ESTUDANDO GIT E GITHUB
 #Repositório Criado para estudos e práticas de Git e GitHub
-<img align="left" width="59" height="300" alt="83b91c4c-2dbc-4a04-a6a8-9211806c43df" src="https://github.com/user-attachments/assets/65877a9e-e45d-4e11-854f-0b1210a291f8" />
+<img align="right" width="500" height="500" alt="c3d96723-1a90-4de3-bbbb-dd8bb507b6ae" src="https://github.com/user-attachments/assets/bbf1d36f-ff17-40bb-8000-24cc2f4922d3" />
+
 
 
 =======================
