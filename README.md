@@ -4,9 +4,7 @@
 
 
 =======================
-# COMANDOS 
-Comandos Básicos do Git 
-
+# COMANDOS BASICOS DO GIT 
 
 # ⚙️ Configurações Locais 
 
