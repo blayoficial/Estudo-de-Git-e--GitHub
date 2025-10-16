@@ -157,5 +157,6 @@ git clean -f
 
 ### Ver arquivos não rastreados
 git ls-files --others --exclude-standard
+
 =====================
 
