@@ -1,6 +1,6 @@
 # ESTUDANDO GITHUB
 
-<img width="1024" height="1536" alt="83b91c4c-2dbc-4a04-a6a8-9211806c43df" src="https://github.com/user-attachments/assets/183939e8-7989-430b-ad08-fee86bf9ab9d" />
+<img width="50" height="50" alt="83b91c4c-2dbc-4a04-a6a8-9211806c43df" src="https://github.com/user-attachments/assets/183939e8-7989-430b-ad08-fee86bf9ab9d" />
 
 Repositório utilizado para estudos e práticas de Git e GitHub
 
