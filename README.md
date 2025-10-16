@@ -4,6 +4,7 @@ me aprofundando em git e github
 Repositório utilizado para estudos e práticas de Git e GitHub
 
 
+<<<<<<< Updated upstream
 Comandos Básicos do Git 
 
 
@@ -154,3 +155,7 @@ git clean -f
 
 # Ver arquivos não rastreados
 git ls-files --others --exclude-standard
+=======
+
+
+>>>>>>> Stashed changes
