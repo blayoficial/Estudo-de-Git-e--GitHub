@@ -1,5 +1,5 @@
 # GUIA COMPLETO DE MARKDOWN
-📌 Títulos
+ Títulos
 # Título 1           '#'  
 ## Título 2          '##'  
 ### Título 3         '###'  
@@ -7,7 +7,7 @@
 ##### Título 5       '#####'  
 ###### Título 6      '######'
 
-✏️ Ênfase
+ Ênfase
 *Itálico*              '*'  
 _Itálico_              '_'  
 **Negrito**            '**'  
@@ -15,7 +15,7 @@ __Negrito__            '__'
 ***Negrito Itálico***  '***'  
 ~~Riscado~~            '~~'
 
-📋 Listas
+ Listas
 Não ordenadas:
 - Item 1              '-'  
 * Item 2              '*'
@@ -29,11 +29,11 @@ Ordenadas:
 [Texto do link](https://exemplo.com)
 []()
 
-🖼️ Imagens
+ Imagens
 ![Texto alternativo](https://via.placeholder.com/150)
 ![]()
 
-📦 Citações (Blockquotes)
+ Citações (Blockquotes)
 Sintaxe:
 > Isso é uma citação.           '>'  
 >> Citação dentro da citação    '>>'
@@ -46,7 +46,7 @@ Sintaxe:
 ___
 '___'
 
- 📊 Tabelas
+  Tabelas
 | Nome | Idade | Cidade |   
 |------|-------|--------|   
 | Ana  | 25    | SP     |
@@ -55,14 +55,14 @@ ___
 '|'
 '----'
 
-✅ Tarefas
+ Tarefas
 - [x] Concluído       '- [x]'  
 - [ ] Pendente        '- [ ]'
 
 
-⌨️ Escape de caracteres
+ Escape de caracteres
 \*Não itálico\*       '\*'
 
-🌐 HTML no Markdown
+ HTML no Markdown
 <b>Negrito</b>  
 <i>Itálico</i>

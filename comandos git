@@ -1,6 +1,6 @@
 # COMANDOS BASICOS DO GIT 
 
-# ⚙️ Configurações Locais 
+#  Configurações Locais 
 
 ### Listar todas as configurações
 git config --list
@@ -20,7 +20,7 @@ git config --global user.email "<seu_email>"
 ### Configurar seu editor padrão
 git config --global core.editor "<seu_editor>"
 
-# 📁 Repositório Local
+#  Repositório Local
 
 ### Criar um repositório local
 git init
@@ -40,7 +40,7 @@ git add .
 ### Comitar com mensagem
 git commit -m "<mensagem_do_commit>"
 
-# 🌿Trabalhando com Branches
+# Trabalhando com Branches
 ### Listar todas as branches
 git branch
 
@@ -56,7 +56,7 @@ git checkout -b <nova_branch>
 ### Deletar uma branch
 git branch -d <nome_da_branch>
 
-# 🧾Logs
+# Logs
 ### Ver todos os commits
 git log
 
@@ -78,14 +78,14 @@ git log --graph
 ### Ver modificações de um commit específico
 git show <hash_do_commit>
 
-# 🔍 Diferenças (Diff)
+#  Diferenças (Diff)
 ### Ver mudanças antes de commitar
 git diff
 
 ### Ver só os nomes dos arquivos modificados
 git diff --name-only
 
-# 🔄 Desfazendo Coisas
+#  Desfazendo Coisas
 ### Desfazer última mudança antes do staged
 git checkout <nome_do_arquivo>
 
@@ -104,7 +104,7 @@ git reset --hard <hash_do_commit>
 ### Apagar um commit específico (sem perder histórico)
 git revert <hash_do_commit>
 
-# 📦 Stash (Guardar Mudanças Temporariamente)
+#  Stash (Guardar Mudanças Temporariamente)
 ### Guardar alterações não commitadas
 git stash
 
@@ -117,7 +117,7 @@ git stash pop
 ### Apagar todos os stashes
 git stash clear
 
-# 🌐 Repositórios Remotos
+#  Repositórios Remotos
 ### Conectar repositório local com remoto
 git remote add origin <url_do_repositório>
 
@@ -133,14 +133,14 @@ git push -u origin <nome_da_branch>
 ### Baixar tudo do repositório remoto
 git pull origin <nome_da_branch>
 
-# 🧩Merge e Conflitos
+# Merge e Conflitos
 ### Mesclar branch atual com outra
 git merge <nome_da_branch>
 
 ### Abortar merge com conflito
 git merge --abort
 
-# 🧰 Outros Comandos Úteis
+#  Outros Comandos Úteis
 ### Ver as diferenças entre branches
 git diff <branch_1> <branch_2>
 
